@@ -4,6 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "build": "echo 'No build step defined'",
     "test": "mocha --exit"
   },
   "keywords": [],
