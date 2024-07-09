@@ -7,7 +7,7 @@ var server = require('../server');
 var should = chai.should();
 var expect = chai.expect;
 
-chai.use(chaiHttp);
+chai.use(chaiHttp);n
 
 describe('Photos', function(){
 
